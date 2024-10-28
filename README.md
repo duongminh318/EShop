@@ -36,7 +36,7 @@ Before running the project, make sure you have the following installed:
 
 >>  bash
 
-		git clone https://github.com/yourusername/eshop.git
+		git clone https://github.com/duongminh318/EShop.git
 		cd eshop
 
 ### 2. Configure the database
