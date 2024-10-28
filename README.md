@@ -1,4 +1,4 @@
-7# eShop Web Application 
+# eShop Web Application 
 - eShop Web Application With T3H INSTITUTE OF INFORMATION TECHNOLOGY
 ## Overview
 This project is a fully functional **eShop** web application built using **ASP.NET Core** and **SQL Server**. It demonstrates the typical functionalities of an e-commerce system, including product catalog management, shopping cart, user authentication, order processing, and more. 
